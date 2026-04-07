@@ -1,4 +1,4 @@
-import MovieCard from "./MovieCard";
+import MovieCard from "../pages/MovieCard";
 
 interface Props {
   title: string;
